@@ -1,0 +1,5 @@
+Name, surname: Anastasija Sviridova
+Age: 38
+Pets: 6 cats and 1 dog
+Salary: 2000 euro
+
