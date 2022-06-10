@@ -1,1 +1,12 @@
-
+Number: AN-11
+Title: Not possible to select several price ranges when searching products
+Priority: Medium
+Assigned to: Irina Semova
+Description: 
+        Preconditions: Desktop: Windows 10, Google Chrome
+  	    Steps to reproduce:	1. Go to URL: https://www.janisroze.lv/lv/
+				                    2. Select any category, for example, Grāmatas → Daiļliteratūra
+				                    3. Scroll down to the price ranges on the left (Cenas)
+				                    4. Select several price ranges
+        Expected result: User should be able to select several price ranges, for example, €10,00 - €19,99, €20,00 - €29,99, €30,00 - €39,99.
+        Actual result: It is possible to select only one price range. The field in which user can enter price ranges doesn’t work.
