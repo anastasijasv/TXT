@@ -1,0 +1,17 @@
+Theory, SDLC, STLC
+Servers
+HTTP requests
+JSON and XML
+Postman
+Charles and Fiddler
+Dev Tools
+VPN
+Mobile testing
+XCode and Android Studio
+Linux terminal
+Bash scripting
+SQL
+Postgres and Redis
+JMeter
+Scrum
+Python
